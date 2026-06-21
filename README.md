@@ -12,8 +12,7 @@ A static website hosted on Amazon S3 with public access enabled via a bucket pol
 - Deployed an HTML file
 
 ## Live demo
-http://jiya-portfolio-2026.s3-website.eu-north-1.amazonaws.com
-
+https://jiya-portfolio-2026.s3.eu-north-1.amazonaws.com/index.html
 ## What I learned
 - S3 bucket creation and configuration
 - Public access settings and bucket policies
